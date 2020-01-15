@@ -4,5 +4,8 @@
   "description": "Backend Aplication",
   "main": "index.js",
   "author": "Giovani Rodrigues (Instructor: Diego Fernandes (RocketSeat))",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
