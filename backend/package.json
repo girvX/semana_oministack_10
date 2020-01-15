@@ -1,0 +1,8 @@
+{
+  "name": "omnistack10",
+  "version": "1.0.0",
+  "description": "Backend Aplication",
+  "main": "index.js",
+  "author": "Giovani Rodrigues (Instructor: Diego Fernandes (RocketSeat))",
+  "license": "MIT"
+}
